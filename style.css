@@ -3,3 +3,25 @@ body {
   height: 100%;
   margin: 0;
 }
+header {text-align: center;}
+.center { width:50%;
+          margin-right: auto;
+          margin-left: auto;
+          display: block; }
+nav {padding-right: 10px;
+    padding-left: 10px;
+    background-color: blue;
+}
+figcaption {text-align: center;
+            font-size: 16px;
+}
+
+p {width: 800px;
+   text-align: center;}
+#details { display: block;
+           }
+.finishing { background-color: blue;
+             text-align: center;
+             width:25%;
+}
+      

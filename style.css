@@ -3,3 +3,10 @@ body {
   height: 100%;
   margin: 0;
 }
+.aligncenter {text-align: center;}
+nav {padding-right: 10px;
+    padding-left: 10px;
+    background-color: blue;
+}
+figcaption { font-size: 16px;
+      aligncenter

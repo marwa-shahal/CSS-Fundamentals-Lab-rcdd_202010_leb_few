@@ -7,10 +7,11 @@ header {text-align: center;}
 .center { width:50%;
           margin-right: auto;
           margin-left: auto;
-          
+          display: block; }
 nav {padding-right: 10px;
     padding-left: 10px;
     background-color: blue;
 }
+
 figcaption { font-size: 16px;
       aligncenter

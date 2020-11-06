@@ -19,4 +19,9 @@ figcaption {text-align: center;
 p {width: 800px;
    text-align: center;}
 #details { display: block;
-           float:le ;}
+           }
+.finishing { background-color: blue;
+             text-align: center;
+             width:25%;
+}
+      
